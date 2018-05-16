@@ -38,7 +38,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 번호칸을 나타내는 소스코드 -->	
 	<tr>
 		<td bgcolor="#f4f4f4"> 번호</td>
 		<td bgcolor="#ffffff">
@@ -48,7 +48,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 제목칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 제목</td>
 		<td bgcolor="#ffffff">
@@ -58,7 +58,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 작성자칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 글쓴이</td>
 		<td bgcolor="#ffffff">
@@ -68,7 +68,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 내용칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 내용</td>
 		<td bgcolor="#ffffff">
@@ -78,7 +78,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 조회수칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 조회수</td>
 		<td bgcolor="#ffffff">
@@ -88,7 +88,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 등록날짜칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 등록날짜</td>
 		<td bgcolor="#ffffff">
@@ -98,7 +98,7 @@
 	<tr bgcolor="#777777">
 		<td height="1" colspan="2"></td>
 	</tr>
-	
+<!-- 파일첨부칸을 나타내는 소스코드 -->		
 	<tr>
 		<td bgcolor="#f4f4f4"> 첨부파일</td>
 		<td bgcolor="#ffffff">
