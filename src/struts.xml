@@ -17,7 +17,7 @@
 		</global-exception-mappings>
 	 -->
 	 <!-- 게시판 리스트 액션 -->
-		<action name="listAction" class="board.listAction">
+		<action name="listAction" class="board.listAction"><!--  board.listAction.execute()가 실행 -->
 			<result>/board/boardList.jsp</result>
 		</action>
 		
